@@ -1,5 +1,5 @@
 # 🧠 The Verifiers – Flask Web Application  
-**Progetto per l’esame di Ingegneria del Software – A.A. 2023/2024**
+**Progetto per l’esame di Ingegneria del Software – A.A. 2022/2023**
 
 ---
 
@@ -175,10 +175,10 @@ Il sistema integra l’API di **[NewsAPI.org](https://newsapi.org/)**, che conse
 
 | Pagina                                                            | Descrizione                                                     |
 |-------------------------------------------------------------------|-----------------------------------------------------------------|
-| ![Home](\static\schreenshots\Home_.png)                           | Interfaccia principale del sistema                              |
-| ![Verifica Immagine](\static\schreenshots\Verifica_.png) | Schermata con i pulsanti di verifica (Immagine, Dominio, Video) |
-| ![Gestione Notizie](\static\schreenshots\Notizie_.png)              | Visualizzazione notizie tramite API                             |
-| ![Login](\static\schreenshots\Login_.png)                           | Interfaccia di accesso utente e amministratore                  |
+| ![Home](/static/schreenshots/Home_.png)                           | Interfaccia principale del sistema                              |
+| ![Verifica Immagine](/static/schreenshots/Verifica_.png) | Schermata con i pulsanti di verifica (Immagine, Dominio, Video) |
+| ![Gestione Notizie](/static/schreenshots/Notizie_.png)              | Visualizzazione notizie tramite API                             |
+| ![Login](/static/schreenshots/Login_.png)                           | Interfaccia di accesso utente e amministratore                  |
 ---
 
 ## 📘 Documentazione tecnica
@@ -204,9 +204,8 @@ Progetto sviluppato per l’esame di **Ingegneria del Software** – Politecnico
 
 - 🧑‍💻 [Davide Poli](https://github.com/Bonz0Sbronz0)  
 - 🧑‍💻 [Salvatore Forte](https://github.com/LeonardoDaCodice)  
-- 🧑‍💻 [Roberto Pio Selvaggi](https://github.com/Roberto1512)  
-- 🧑‍💻 Fabio Papapicco
-
+- 🧑‍💻 [Roberto Pio Selvaggi](https://github.com/Roberto1512)
+- 🧑‍💻 [Fabio Papapicco](https://github.com/DwarfOTB)  
 
 ---
 
