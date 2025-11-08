@@ -174,10 +174,13 @@ Il sistema integra l’API di **[NewsAPI.org](https://newsapi.org/)**, che conse
 | ![Login](/static/schreenshots/Login_.png)                           | Interfaccia di accesso utente e amministratore                  |
 ---
 
+
 ##  Documentazione tecnica
 
-La documentazione completa del progetto è disponibile in:
-📁 `documentation/Documentazione_The_Verifiers_Ingegneria_2023.pdf`
+La documentazione completa del progetto è disponibile in formato PDF:
+📁 [Documentazione_The_Verifiers_Ingegneria_2023.pdf](documentation/Documentazione_The_Verifiers_Ingegneria_2023.pdf)
+
+
 
 Contiene:
 
