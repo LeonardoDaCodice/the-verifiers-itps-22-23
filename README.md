@@ -1,4 +1,4 @@
-# 🧠 The Verifiers – Flask Web Application  
+#  The Verifiers – Flask Web Application  
 **Progetto per l’esame di Ingegneria del Software – A.A. 2022/2023**
 
 ---
@@ -15,7 +15,7 @@ Oltre alla componente AI, il sistema integra anche un’**API di news** che perm
 
 ---
 
-## 🧱 Struttura del progetto
+##  Struttura del progetto
 
 ```
 
@@ -44,33 +44,26 @@ the-verifiers-itps-22-23/
 
 ## ⚙️ Installazione
 
-### 1️⃣ Clonare il repository
+### 1️) Clonare il repository
 ```bash
 git clone https://github.com/LeonardoDaCodice/the-verifiers-itps-22-23.git
 cd the-verifiers-itps-22-23
 ````
 
-### 2️⃣ Creare l’ambiente virtuale
+### 2️) Creare l’ambiente virtuale
 
 ```bash
 python -m venv venv
 venv\Scripts\activate
 ```
 
-### 3️⃣ Installare le dipendenze
+### 3️) Installare le dipendenze
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Ottimo, Salvatore 👏
-La tua versione è già **chiara e ben scritta**, ma possiamo renderla un filo più scorrevole e senza piccole ripetizioni (es. “puoi… puoi…”), mantenendo lo stesso tono compatto e professionale.
-
-Ecco la versione **ottimizzata e pronta per il README** 👇
-
----
-
-### 4️⃣ Configurare le variabili d’ambiente
+### 4️) Configurare le variabili d’ambiente
 
 Crea un file **`.env`** nella root del progetto (puoi copiare e rinominare `.env.example`) e inserisci i parametri di connessione al database:
 
@@ -82,7 +75,7 @@ MYSQL_DB=theverifiersdb
 SECRET_KEY=myflaskkey123
 ````
 
-> 💡 *La `SECRET_KEY` serve per la sicurezza delle sessioni Flask.*
+> !!! *La `SECRET_KEY` serve per la sicurezza delle sessioni Flask.* !!!
 > Generane una nuova eseguendo da terminale:
 > 
 > `python -c "import secrets; print(secrets.token_hex(16))"`
@@ -90,7 +83,7 @@ SECRET_KEY=myflaskkey123
 
 ---
 
-## 💾 Database
+##  Database
 
 Importare il file:
 
@@ -107,7 +100,7 @@ Il file include la **struttura completa** delle tabelle e **dati fittizi di esem
 
 ---
 
-## 🚀 Avvio del progetto
+##  Avvio del progetto
 
 Avvia il server Flask in modalità debug:
 
@@ -119,7 +112,7 @@ Poi apri [http://localhost:5000](http://localhost:5000) nel browser.
 
 ---
 
-## 🧩 Componenti principali
+##  Componenti principali
 
 | Componente                                                         | Descrizione                                                            |
 | ------------------------------------------------------------------ | ---------------------------------------------------------------------- |
@@ -133,7 +126,7 @@ Poi apri [http://localhost:5000](http://localhost:5000) nel browser.
 
 ---
 
-## 🧠 Modulo di analisi delle immagini (AI Integration)
+##  Modulo di analisi delle immagini (AI Integration)
 
 Il progetto integra il modulo open-source **[Image-Manipulation-Detection](https://github.com/z1311/Image-Manipulation-Detection)**,
 che consente di rilevare immagini modificate tramite analisi a due livelli:
@@ -143,8 +136,8 @@ che consente di rilevare immagini modificate tramite analisi a due livelli:
 
 L’output ELA viene fornito in input a una **rete neurale convoluzionale (CNN)** addestrata sul dataset [**CASIA Image Tampering Dataset**](https://www.ee.columbia.edu/ln/dvmm/downloads/AuthSplicedDataSet/AuthSplicedDataSet.htm), per classificare l’immagine come:
 
-* 🟢 *Autentica*
-* 🔴 *Manipolata*
+*  *Autentica*
+*  *Manipolata*
 
 ### 🔧 Integrazione nel backend Flask
 
@@ -161,7 +154,7 @@ Il risultato viene poi visualizzato nella pagina `verifica.html`.
 
 ---
 
-## 🌍 Integrazione con API di notizie
+##  Integrazione con API di notizie
 
 Il sistema integra l’API di **[NewsAPI.org](https://newsapi.org/)**, che consente di:
 
@@ -171,7 +164,7 @@ Il sistema integra l’API di **[NewsAPI.org](https://newsapi.org/)**, che conse
 
 ---
 
-## 🖼️ Screenshot del sistema
+##  Screenshot del sistema
 
 | Pagina                                                            | Descrizione                                                     |
 |-------------------------------------------------------------------|-----------------------------------------------------------------|
