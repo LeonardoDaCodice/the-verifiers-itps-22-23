@@ -178,7 +178,7 @@ Il sistema integra l’API di **[NewsAPI.org](https://newsapi.org/)**, che conse
 ##  Documentazione tecnica
 
 La documentazione completa del progetto è disponibile in formato PDF:
-📁 [Documentazione_The_Verifiers_Ingegneria_2023.pdf](documentation/Documentazione_The_Verifiers_Ingegneria_2023.pdf)
+[Documentazione_The_Verifiers_Ingegneria_2023.pdf](documentation/Documentazione_The_Verifiers_Ingegneria_2023.pdf)
 
 
 
@@ -198,10 +198,10 @@ Progetto sviluppato per l’esame di **Ingegneria del Software** – Università
 
 **Team di sviluppo:**
 
-- 🧑‍💻 [Davide Poli](https://github.com/Bonz0Sbronz0)  
-- 🧑‍💻 [Salvatore Forte](https://github.com/LeonardoDaCodice)  
-- 🧑‍💻 [Roberto Pio Selvaggi](https://github.com/Roberto1512)
-- 🧑‍💻 [Fabio Papapicco](https://github.com/DwarfOTB)  
+-  [Davide Poli](https://github.com/Bonz0Sbronz0)  
+-  [Salvatore Forte](https://github.com/LeonardoDaCodice)  
+-  [Roberto Pio Selvaggi](https://github.com/Roberto1512)
+-  [Fabio Papapicco](https://github.com/DwarfOTB)  
 
 ---
 
