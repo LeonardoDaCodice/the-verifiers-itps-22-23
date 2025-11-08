@@ -44,26 +44,26 @@ the-verifiers-itps-22-23/
 
 ##  Installazione
 
-### 1️) Clonare il repository
+### 1) Clonare il repository
 ```bash
 git clone https://github.com/LeonardoDaCodice/the-verifiers-itps-22-23.git
 cd the-verifiers-itps-22-23
 ````
 
-### 2️) Creare l’ambiente virtuale
+### 2) Creare l’ambiente virtuale
 
 ```bash
 python -m venv venv
 venv\Scripts\activate
 ```
 
-### 3️) Installare le dipendenze
+### 3) Installare le dipendenze
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4️) Configurare le variabili d’ambiente
+### 4) Configurare le variabili d’ambiente
 
 Crea un file **`.env`** nella root del progetto (puoi copiare e rinominare `.env.example`) e inserisci i parametri di connessione al database:
 
@@ -174,7 +174,7 @@ Il sistema integra l’API di **[NewsAPI.org](https://newsapi.org/)**, che conse
 | ![Login](/static/schreenshots/Login_.png)                           | Interfaccia di accesso utente e amministratore                  |
 ---
 
-## 📘 Documentazione tecnica
+##  Documentazione tecnica
 
 La documentazione completa del progetto è disponibile in:
 📁 `documentation/Documentazione_The_Verifiers_Ingegneria_2023.pdf`
@@ -189,7 +189,7 @@ Contiene:
 
 ---
 
-## 👥 Team di sviluppo
+##  Team di sviluppo
 
 Progetto sviluppato per l’esame di **Ingegneria del Software** – Università degli sudi di Bari Aldo Moro(A.A. 2022/2023)
 
