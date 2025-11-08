@@ -41,8 +41,9 @@ desktop.ini
 *.iml
 
 # 🔹 Database e backup locali
-database/*.sql
+database/*
 !database/theverifiersdb.sql   # Mantieni solo il file SQL principale del progetto
+
 
 # 🔹 File compressi o archivi vari
 *.zip
