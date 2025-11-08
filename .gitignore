@@ -53,4 +53,4 @@ database/*
 # 🔹 Altri file non necessari
 *.bak
 *.secret
-*.env.*
+*.env
