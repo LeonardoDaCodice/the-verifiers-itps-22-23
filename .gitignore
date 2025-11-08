@@ -1,0 +1,55 @@
+# ===========================================
+# 🧠 THE VERIFIERS - GITIGNORE FILE
+# Creato da Salvatore Forte – Novembre 2025
+# ===========================================
+
+# 🔹 Ambiente virtuale Python (tutte le cartelle e file del venv)
+venv/
+Lib/
+Scripts/
+Include/
+pyvenv.cfg
+
+# 🔹 Variabili d'ambiente private
+.env
+
+# 🔹 Cache e file temporanei Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+*.pid
+*.sqlite3
+*.db
+
+# 🔹 Cartelle temporanee o di output
+temp/
+instance/
+uploads/
+*.bak
+*.tmp
+
+# 🔹 File e directory di sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 🔹 IDE e ambienti di sviluppo
+.vscode/
+.idea/
+*.iml
+
+# 🔹 Database e backup locali
+database/*.sql
+!database/theverifiersdb.sql   # Mantieni solo il file SQL principale del progetto
+
+# 🔹 File compressi o archivi vari
+*.zip
+*.rar
+*.7z
+
+# 🔹 Altri file non necessari
+*.bak
+*.secret
+*.env.*
