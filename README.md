@@ -42,7 +42,7 @@ the-verifiers-itps-22-23/
 
 ---
 
-## ⚙️ Installazione
+##  Installazione
 
 ### 1️) Clonare il repository
 ```bash
@@ -209,7 +209,7 @@ Il modulo “Image-Manipulation-Detection” è incluso nel rispetto della licen
 
 ---
 
-## 🌐 Riferimenti utili
+##  Riferimenti utili
 
 * [Repository principale del progetto – The Verifiers](https://github.com/LeonardoDaCodice/the-verifiers-itps-22-23)
 * [Modulo AI – Image Manipulation Detection](https://github.com/z1311/Image-Manipulation-Detection)
