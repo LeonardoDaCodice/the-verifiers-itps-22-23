@@ -139,7 +139,7 @@ L’output ELA viene fornito in input a una **rete neurale convoluzionale (CNN)*
 *  *Autentica*
 *  *Manipolata*
 
-### 🔧 Integrazione nel backend Flask
+###  Integrazione nel backend Flask
 
 Durante la verifica, Flask esegue automaticamente:
 
@@ -149,7 +149,7 @@ python Image-Manipulation-Detection/analyze.py -p <immagine_caricata>
 
 Il risultato viene poi visualizzato nella pagina `verifica.html`.
 
-📄 Ulteriori dettagli tecnici sono presenti nel file
+Ulteriori dettagli tecnici sono presenti nel file
 [`Image-Manipulation-Detection/README.md`](Image-Manipulation-Detection/README.md)
 
 ---
