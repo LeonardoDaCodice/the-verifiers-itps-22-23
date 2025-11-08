@@ -198,7 +198,7 @@ Contiene:
 
 ## 👥 Team di sviluppo
 
-Progetto sviluppato per l’esame di **Ingegneria del Software** – Politecnico di Bari (A.A. 2022/2023)
+Progetto sviluppato per l’esame di **Ingegneria del Software** – Università degli sudi di Bari Aldo Moro(A.A. 2022/2023)
 
 **Team di sviluppo:**
 
